@@ -43,7 +43,7 @@ Agora você precisa criar um formulário dentro do VBA para que o usuário o pre
 > [!NOTE] 
 > Não há caixa de texto perguntando o nome do computador, já que essa informação será capturada diretamente pelo script. Você deve fazer isso para quaisquer outras informações que o usuário não terá acesso.
 
-No vídeo ensinarei passo-a-passo como criá-lo do zero. Lembre-se que o nome das caixas de texto e dos botões fazem diferença no momento de criar o script.
+Lembre-se que o nome das caixas de texto e dos botões fazem diferença no momento de criar o script.
 
 ### Como importar o seu modelo para a minha planilha?
 1. Baixe o template.
