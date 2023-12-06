@@ -36,7 +36,7 @@ Está é a hora de você decidir quais dados o usuário precisará fornecer e qu
 Lembrando que a escolha dos dados fica a sua escolha, podendo ser personalizada da maneira que for preciso.
 
 ## 4. Criando a janela de ativação:
-Agora você precisa criar um formulário dentro do VBA para que o usuário o preencha com seus dados. Criei um template para facilitar o nosso tutorial, você o encontra na pasta "Arquivos" com o nome "frm_ativar.frm" ou [clicando aqui](/Arquivos/frm_ativar.frm). Fique a vontade para adaptá-lo de acordo com as necessidades do seu projeto.
+Agora você precisa criar um formulário dentro do VBA para que o usuário o preencha com seus dados. Criei um template para facilitar o nosso tutorial, você o encontra na pasta "Arquivos" com o nome "frm_ativar.frm" e "frm_ativar.frx" ou [clicando aqui](/Arquivos/frm_ativar.frm) (Atenção! Os dois arquivos devem ser baixados juntos para que o formulário seja importado corretamente). Fique a vontade para adaptá-lo de acordo com as necessidades do seu projeto.
 
 ![](https://imgur.com/bYjS354.jpg)
 
