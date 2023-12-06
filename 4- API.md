@@ -85,9 +85,7 @@ On Error GoTo 0
         Exit Sub
     End If
 
-    On Error GoTo TratamentoJson
     Set resposta = JsonConverter.ParseJson(requisicao.responseText)
-    On Error GoTo 0
 
     'Conferindo Status
 
